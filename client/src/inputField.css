@@ -1,0 +1,16 @@
+.send-message {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.send-icon {
+	color: rgb(63, 156, 231);
+	width: 2rem;
+	border: none;
+}
+
+.input-field {
+	border-radius: 1rem;
+	padding: 1rem 2rem;
+}

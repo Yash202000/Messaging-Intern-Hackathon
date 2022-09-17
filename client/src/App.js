@@ -1,10 +1,13 @@
 import './App.css';
 import Message from './message';
+import InputField from './inputField'
 
 function App() {
+
   return (
 		<div className="App">
-			<Message/>
+			<Message />
+			<InputField/>
     </div>
   );
 }
