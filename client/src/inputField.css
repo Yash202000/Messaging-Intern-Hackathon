@@ -1,6 +1,6 @@
 .send-message {
 	display: flex;
-	justify-content: center;
+	justify-content: start;
 	align-items: center;
 }
 
@@ -11,6 +11,8 @@
 }
 
 .input-field {
+	width: 100vw;
 	border-radius: 1rem;
 	padding: 1rem 2rem;
+	margin-right: 1rem;
 }

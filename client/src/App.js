@@ -1,15 +1,18 @@
 import './App.css';
 import Message from './message';
-import InputField from './inputField'
+import OutgoingMessage from './outgoingMessage';
+import InputField from './inputField';
 
 function App() {
-
-  return (
-		<div className="App">
-			<Message />
-			<InputField/>
-    </div>
-  );
+	return (
+		<div className='App'>
+			<div className='messages'>
+				<Message />
+				<OutgoingMessage />
+			</div>
+			<InputField />
+		</div>
+	);
 }
 
 export default App;

@@ -1,0 +1,17 @@
+.out-message {
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+}
+
+.out-message h3 {
+	margin: 0rem 1rem;
+	padding: 1rem 2rem;
+	border-radius: 3rem;
+	background-color: rgb(63, 156, 231);
+}
+
+.out-message img {
+	width: 5rem;
+	border-radius: 100%;
+}
