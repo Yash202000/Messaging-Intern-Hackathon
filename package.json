@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Tarun-Mourya/Messaging-Intern-Hackathon/issues"
   },
-  "homepage": "https://github.com/Tarun-Mourya/Messaging-Intern-Hackathon#readme"
+  "homepage": "https://github.com/Tarun-Mourya/Messaging-Intern-Hackathon#readme",
+  "dependencies": {
+    "socket.io": "^4.5.2"
+  }
 }
