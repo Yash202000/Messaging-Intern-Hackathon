@@ -1,0 +1,17 @@
+.text-message {
+	display: flex;
+	justify-content: start;
+	align-items: center;
+}
+
+.text-message h3 {
+	margin: 0rem 1rem;
+	padding: 1rem 2rem;
+	border-radius: 3rem;
+	background-color: rgb(63, 156, 231);
+}
+
+.text-message img {
+	width: 5rem;
+	border-radius: 100%;
+}

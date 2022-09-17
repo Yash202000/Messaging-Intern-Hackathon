@@ -1,9 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
+import Message from './message';
 
 function App() {
   return (
-    <div className="App">
+		<div className="App">
+			<Message/>
     </div>
   );
 }
